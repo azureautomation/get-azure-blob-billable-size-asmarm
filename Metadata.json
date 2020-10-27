@@ -1,0 +1,20 @@
+{
+    "Author": "jovieir",
+    "ContentSize": 12438,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/get-azure-blob-billable-size-asmarm/master/AzureRmStorageBillableSize.ps1",
+    "DownloadCount": 980,
+    "Id": "Get-Azure-Blob-Billable-4a022371",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 475,
+    "RaterCount": 3,
+    "Rating": 5.0,
+    "ReleaseDate": "2017-11-9T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Retrieves the effective size that is being used by one (or several) Blobs, all blobs in a container or a storage account.",
+    "Title": "Get Azure Blob Billable Size [ASM/ARM]",
+    "UpdatedDate": "2018-4-21T00:00:00",
+    "Url": "https://github.com/azureautomation/get-azure-blob-billable-size-asmarm",
+    "UserTags": "Azure, Microsoft Azure, Powershell"
+}
